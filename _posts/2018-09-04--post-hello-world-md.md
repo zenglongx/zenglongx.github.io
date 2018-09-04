@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: _post/Hello World.md
+title: Hello World
 ---
 ## Hello World
 My name is xingzenglong.
